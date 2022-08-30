@@ -1,0 +1,7 @@
+  Personal Finance Application
+
+-> Add Expenses (basically it shows all the personal finacial expenses)
+-> Add Savings  (Personal Saving / Public Savings)
+       ->Public  Saving
+       ->Private Saving
+

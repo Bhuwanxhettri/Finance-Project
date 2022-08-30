@@ -1,0 +1,26 @@
+.new-Saving__controls {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    margin-bottom: 1rem;
+    text-align: left;
+  }
+  
+  .new-Saving__control label {
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+    display: block;
+  }
+  
+  .new-Saving__control input {
+    font: inherit;
+    padding: 0.5rem;
+    border-radius: 6px;
+    border: 1px solid rgb(238, 79, 79);
+    width: 20rem;
+    max-width: 100%;
+  }
+  
+  .new-Saving__actions {
+    text-align: right;
+  }
