@@ -5,7 +5,7 @@ import Saving from "./SavingComponents/Saving";
 function App() {
   return (
     <div>
-      <Header/>
+      {/* <Header/> */}
       <Routes>
         <Route path="/" element={<Expenditure />} />
         <Route path="saving" element={<Saving />} />

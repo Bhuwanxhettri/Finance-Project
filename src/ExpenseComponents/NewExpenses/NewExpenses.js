@@ -31,7 +31,6 @@ function NewExpenses(props) {
         {!isEditing && (<button onClick={startEditingHandler}>Add New Expenses</button>)}
 
         {isEditing && ( <ExpenseForm onSaveExpenseData={saveExpensesDataHandler} onCancel={stopEditingHandler} />)}
-
                
       </div>
     </>
